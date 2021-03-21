@@ -1,0 +1,5 @@
+# Used by libs.graphics.plotting
+matplotlib==3.3.4
+
+# Used by libs.common.types
+typeguard==2.11.1
